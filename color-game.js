@@ -91,7 +91,3 @@ function generateColor() {
 }
 
 resetButton.addEventListener("click", reset);
-
-
-
-
